@@ -9,4 +9,5 @@ btnTema.addEventListener("click", function () {
         btnTema.textContent = "☾";
     }
 }
-);
+)
+;
